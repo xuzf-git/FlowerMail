@@ -30,3 +30,5 @@
 
 [task 文档](https://github.com/xuzf-git/FlowerMail/tree/develop/doc/task_doc) ：项目文件：如分工文档、项目书、设计书、PPT等。
 
+[reference](https://github.com/xuzf-git/FlowerMail/tree/develop/doc/reference.md) ：参考资料
+

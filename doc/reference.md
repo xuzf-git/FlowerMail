@@ -2,5 +2,8 @@
 
 ## 一、GUI
 
-1. 邮件富文本格式编辑（字体、颜色）
-   1. [Qt 富文本编辑器 ——QtextDocuments](https://www.cnblogs.com/techiel/p/8058430.html)
+* [Qt 富文本编辑器 ——QtextDocuments](https://www.cnblogs.com/techiel/p/8058430.html)
+
+## 二、github flow
+
+* [git本地分支和远程分支如何关联](https://blog.csdn.net/u012216131/article/details/84256384)
