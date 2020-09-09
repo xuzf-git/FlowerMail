@@ -26,7 +26,7 @@
 
 ## 3. 文档
 
-[api  文档](./doc/api_doc) ：函数接口文档（半日更或日更）
+[api  文档](https://github.com/xuzf-git/FlowerMail/tree/develop/doc/api_doc) ：函数接口文档（半日更或日更）
 
-[task 文档](./doc/task_doc) ：项目文件：如分工文档、项目书、设计书、PPT等。
+[task 文档](https://github.com/xuzf-git/FlowerMail/tree/develop/doc/task_doc) ：项目文件：如分工文档、项目书、设计书、PPT等。
 
