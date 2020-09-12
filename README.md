@@ -12,8 +12,8 @@
 
 | 日期 |                        目标                        | 进度 |
 | :--: | :------------------------------------------------: | :--: |
-| 9.8  |          讨论项目分工、熟悉 github 工作流          |      |
-| 9.9  |               完成项目分工、需求分析               |      |
+| 9.8  |          讨论项目分工、熟悉 github 工作流          | 完成 |
+| 9.9  |               完成项目分工、需求分析               | 完成 |
 | 9.10 | 学习 Qt、Socket、多线程、MySQL ，实现一些可用 demo |      |
 | 9.11 |           学习讨论示例代码，讨论接口设计           |      |
 | 9.12 |    讨论接口设计，概要设计，完成 api 文档并上传     |      |
@@ -26,7 +26,9 @@
 
 ## 3. 文档
 
-[api  文档](./doc/api_doc) ：函数接口文档（半日更或日更）
+[api  文档](https://github.com/xuzf-git/FlowerMail/tree/develop/doc/api_doc) ：函数接口文档（半日更或日更）
 
-[task 文档](./doc/task_doc) ：项目文件：如分工文档、项目书、设计书、PPT等。
+[task 文档](https://github.com/xuzf-git/FlowerMail/tree/develop/doc/task_doc) ：项目文件：如分工文档、项目书、设计书、PPT等。
+
+[reference](https://github.com/xuzf-git/FlowerMail/tree/develop/doc/reference.md) ：参考资料
 
