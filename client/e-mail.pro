@@ -29,19 +29,22 @@ SOURCES += \
         main.cpp \
         mainwindow.cpp \
         registerdialog.cpp \
-        senddialog.cpp
+        senddialog.cpp \
+        settingdialog.cpp
 
 HEADERS += \
         logindialog.h \
         mainwindow.h \
         registerdialog.h \
-        senddialog.h
+        senddialog.h \
+        settingdialog.h
 
 FORMS += \
         logindialog.ui \
         mainwindow.ui \
         registerdialog.ui \
-        senddialog.ui
+        senddialog.ui \
+        settingdialog.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

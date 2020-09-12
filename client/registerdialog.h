@@ -17,6 +17,16 @@ public:
 
 private:
     Ui::RegisterDialog *ui;
+
+
+signals:
+    void Show_logindialog();
+    void Quit();
+
+private slots:
+    void on_Register_btn_clicked();
+    void on_Cancel_btn_clicked();
+    void Receive_show();
 };
 
 #endif // REGISTERDIALOG_H

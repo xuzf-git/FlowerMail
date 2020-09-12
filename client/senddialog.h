@@ -17,6 +17,11 @@ public:
 
 private:
     Ui::SendDialog *ui;
+
+private slots:
+    void Receive_show();
+    void on_Send_btn_clicked();
+    void on_Attach_file_btn_clicked();
 };
 
 #endif // SENDDIALOG_H
